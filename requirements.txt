@@ -1,0 +1,12 @@
+fastai
+pandas
+numpy
+emoji
+scikit-learn
+pythainlp
+nltk
+tqdm
+dataclasses
+matplotlib
+fastprogress
+flask
